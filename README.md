@@ -5,7 +5,7 @@
 
 This web application depicts Create, read, update and delete operations.I have used Thymeleaf for frontend,Spring Boot for backend & MySql as database.
 
-### Tech Stacks
+## Tech Stacks
 
 * Java
 * Spring Boot
