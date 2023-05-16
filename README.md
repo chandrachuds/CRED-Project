@@ -3,7 +3,7 @@
 
 ## Description
 
-This web application depicts Create, read, update and delete operations.
+This web application depicts Create, read, update and delete operations.I have used Thymeleaf for frontend,Spring Boot for backend & MySql as database.
 
 ### Tech Stacks
 
@@ -17,8 +17,5 @@ This web application depicts Create, read, update and delete operations.
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Spring boot quick start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x&index=2)
+* [Java Guides](https://www.youtube.com/watch?v=_5sAmaRJd2c)
